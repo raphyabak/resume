@@ -29,7 +29,7 @@
             <img alt="profil" src="{{ asset('raphy.jpg') }}" class="object-cover w-40 h-40 mx-auto rounded-3xl" />
         </div>
         <h3 class="max-w-3xl py-2 mx-auto text-4xl font-bold text-center text-gray-800 md:text-5xl dark:text-white">Hi,
-            I&#x27;m Raphael 🤘</h3>
+            I&#x27;m Raphael </h3>
         <h2 class="max-w-2xl py-2 mx-auto text-2xl font-bold text-center text-gray-800 md:text-2xl dark:text-white">
             Backend Developer.</h2>
         <div class="flex justify-center pt-12 mx-auto">
@@ -96,7 +96,7 @@
         </div>
     </section>
 
-    {{-- <section class="items-stretch px-4 pt-6 pb-20 mx-auto bg-gray-800 md:px-10">
+    <section class="items-stretch px-4 pt-6 pb-20 mx-auto bg-gray-800 md:px-10">
         <div class="grid grid-cols-1 gap-24 md:grid-cols-2">
             <div>
                 <p class="mt-2 mb-3 font-mono text-3xl font-bold text-gray-200">About Me</p>
@@ -125,7 +125,7 @@
                     <p class="mt-2 font-mono leading-normal text-white text-md">Built scalable and responsive web
                         applications.</p>
                 </div>
-                <p class="mt-10 mb-5 font-mono text-3xl font-bold text-gray-200">Education</p>
+                {{-- <p class="mt-10 mb-5 font-mono text-3xl font-bold text-gray-200">Education</p>
                 <div class="mb-8 break-inside-avoid">
                     <div>
                         <h3 class="mb-1 font-mono text-lg font-semibold text-white leading-snugish">Bostom Primary
@@ -151,7 +151,7 @@
                         <p class="mb-2 leading-normal text-white text-md">November 2016 – Present | Undergraduate in
                             Mathematics</p>
                     </div>
-                </div>
+                </div> --}}
             </div>
             <div>
                 <!-- <h1 class="mb-6 text-2xl font-light md:text-3xl">Advanced Questions</h1> -->
@@ -227,9 +227,9 @@
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section>
 
-    {{-- <div
+    <div
         class="relative flex justify-center min-h-screen mb-2 bg-white items-top dark:bg-gray-900 sm:items-center sm:pt-0">
         <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
             <div class="mt-8 overflow-hidden">
@@ -281,7 +281,7 @@
                 </div>
             </div>
         </div>
-    </div> --}}
+    </div>
 
     {{-- <section class="px-4 py-16 mx-auto max-w-7xl">
         <h1 class="mb-12 text-sm font-bold tracking-wide text-center text-gray-800 uppercase">Proud to be part in these amazing journey.</h1>
