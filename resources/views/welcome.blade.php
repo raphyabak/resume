@@ -187,6 +187,20 @@
                     <p class="mt-2 font-mono leading-normal text-white text-md">Create Sale and keep inventory of
                         products, also add customer details to sales and keep track of staffs</p>
                 </div>
+                <div class="mb-8 break-inside-avoid">
+                    <div>
+                        <a href="http://advisoryboard.herokuapp.com/" target="_blank">
+                            <h3
+                                class="mb-1 font-mono text-xl font-semibold text-white hover:text-gray-400 leading-snugish">
+                                Student Advisory Board <span
+                                    class="inline-block font-normal transition duration-100 ease-in text-gray-550 print:text-black group-hover:text-gray-700">↗</span>
+                            </h3>
+                        </a>
+                        <p class="mb-2 italic font-semibold leading-normal text-white text-md">HTML, CSS, Javascript,
+                            Laravel (PHP).</p>
+                    </div>
+                    <p class="mt-2 font-mono leading-normal text-white text-md">Advisory based system for students ton effectively communicate ith their course advisors.</p>
+                </div>
                 <div class="mb-4 break-inside-avoid">
                     <div>
                         <a href="http://hagin.herokuapp.com/" target="_blank">
@@ -199,8 +213,7 @@
                         <p class="mb-2 italic font-semibold leading-normal text-white text-md">HTML, CSS, Javascript,
                             Laravel (PHP).</p>
                     </div>
-                    <p class="mt-2 font-mono leading-normal text-white text-md">Create Sale and keep inventory of
-                        products, also add customer details to sales and keep track of staffs</p>
+                    <p class="mt-2 font-mono leading-normal text-white text-md">Outright chatbot communication system.</p>
                 </div>
                 <p class="mt-10 mb-5 font-mono text-3xl font-bold text-gray-200">Skills</p>
                 <div class="my-3.2 last:pb-1.5">
@@ -304,11 +317,11 @@
         </div>
       </section> --}}
 
-    {{-- <div class="w-full px-8 mt-4 bg-gray-800">
+    <div class="w-full px-8 mt-4 bg-gray-800">
         <div class="container inline-flex flex-col flex-wrap items-center px-5 py-6 mx-auto sm:flex-row">
             <p class="mx-auto text-center text-white text-md sm:text-left">© 2021 - Raphael Abayomi</p>
         </div>
-    </div> --}}
+    </div>
     @livewireScripts
 </body>
 
