@@ -609,7 +609,7 @@
                                             <li>
                                                 <div class="list_inner">
                                                     <div class="time">
-                                                        <span class="year">2017 - 2022</span>
+                                                        <span class="year">2016 - 2021</span>
                                                         <span class="company">Ondo State University of Science and
                                                             Technology</span>
                                                     </div>
@@ -647,7 +647,7 @@
                                     </div>
                                     <div class="right">
                                         <div class="text">
-                                            <p>The objective of the project is to identify high performers, create ecosystems of support, aggregate them in communities of practice and mainstream their achievement to help shape youth culture. </p>
+                                            <p>The objective of the project is to identify high performing students, create ecosystems of support, aggregate them in communities of practice and mainstream their achievement to help shape youth culture. </p>
                                         </div>
                                         <div class="arrow">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25" fill="none" class="svg replaced-svg">
